@@ -3,3 +3,6 @@ rdvw
 
 # Exclude intermediate/temp files
 *~
+
+# Exclude Jupyter checkpoints
+.ipynb_checkpoints
