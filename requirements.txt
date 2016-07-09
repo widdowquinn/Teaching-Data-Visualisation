@@ -6,3 +6,4 @@ jupyter>=1.0.0
 seaborn>=0.7.1
 ggplot>=0.10.0
 bokeh>=0.12.0
+pyshp>=1.2.3
