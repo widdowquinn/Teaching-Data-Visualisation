@@ -11,19 +11,21 @@ git clone git@github.com:widdowquinn/Teaching-Data-Visualisation.git
 cd Teaching-Data-Visualisation
 ```
 
-## Python 3.5
+## If you're not using `Anaconda`:
+
+### Python 3.5
 
 We assume that you will be running a recent version of Python 3 - preferably Python 3.5. The instructions for installing this on your platform can be found at the official Python downloads page:
 
 * Python downloads page: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-## `virtualenv`
+### `virtualenv`
 
 `virtualenv` is a tool that creates isolated Python environments. Using this means that we can install packages specific to this workshop, and not interfere with your existing Python setup. It is like having a new, "clean" Python installation.
 
 * `virtualenv` documentation: [https://virtualenv.pypa.io/en/stable/](https://virtualenv.pypa.io/en/stable/)
 
-### Installation
+#### Installation
 
 You can install or upgrade `virtualenv` with the `pip` installation tool (if this is installed):
 
@@ -32,7 +34,7 @@ pip install --upgrade pip
 pip install --upgrade virtualenv
 ```
 
-### Creating a virtual environment for this workshop
+#### Creating a virtual environment for this workshop
 
 The command `virtualenv` creates a new virtual environment in the current working directory, containing a version of Python that is isolated from your system-level Python installation.
 
@@ -69,7 +71,7 @@ rdvw
 └── pip-selfcheck.json
 ```
 
-### Activating the virtual environment
+#### Activating the virtual environment
 
 To use the new virtual environment, you must explicitly *activate* it by running the `activate` shell script:
 
@@ -84,7 +86,7 @@ lpritc@Totoro:2016-07-28_manchester_datavis$ source rdvw/bin/activate
 (rdvw) lpritc@Totoro:2016-07-28_manchester_datavis$ 
 ```
 
-### Leaving the virtual environment
+#### Leaving the virtual environment
 
 To exit the virtual environment, and return to using the system Python, use the `deactivate` command:
 
@@ -99,7 +101,7 @@ As before, your shell prompt should change to alert you that you are no longer w
 lpritc@Totoro:2016-07-28_manchester_datavis$ 
 ```
 
-## Activate the virtual environment
+### Activate the virtual environment
 
 We will install data visualisation and manipulation packages within the virtual environment. Confirm that you are in the root directory of the repository, and activate the virtual environment `rdvw`:
 
@@ -107,7 +109,7 @@ We will install data visualisation and manipulation packages within the virtual 
 source rdvw/bin/activate
 ```
 
-## Quick installation
+### Quick installation
 
 The Python library requirements are given in the `requirements.txt` file in the root directory of this repository. To quickly (without too much typing - it takes just as long otherwise) install all required libraries, use the following command at the terminal in your virtual environment:
 
@@ -115,11 +117,11 @@ The Python library requirements are given in the `requirements.txt` file in the 
 pip install -r requirements.txt
 ```
 
-## Less quick installation 
+### Less quick installation 
 
 The instructions below describe how to install each of the Python libraries individually:
 
-### Install `scipy`
+#### Install `scipy`
 
 `SciPy` is a collection of open-source software for maths, science and engineering. To install `scipy`, run the following command from within the virtual environment:
 
@@ -129,7 +131,7 @@ pip install scipy
 
 * `scipy` homepage: [https://www.scipy.org/](https://www.scipy.org/)
 
-### Install `matplotlib`
+#### Install `matplotlib`
 
 `Matplotlib` is an open-source 2D plotting library that is effectively a "base" library underpinning many Python data visualisatio libraries. To install, run the following command within your virtual environment:
 
@@ -139,7 +141,7 @@ pip install matplotlib
 
 * `matplotlib` homepage: [http://matplotlib.org/](http://matplotlib.org/)
 
-### Install `pandas`
+#### Install `pandas`
 
 `pandas` is an open-source library that provides data structure and analysis tools, including R-like dataframes. To install, run the following command from within the virtual environment:
 
@@ -149,7 +151,7 @@ pip install pandas
 
 * `pandas` homepage: [http://pandas.pydata.org/](http://pandas.pydata.org/)
 
-### Install `Jupyter`
+#### Install `Jupyter`
 
 `Jupyter` is an open-source notebook environment that allows creation and sharing of documents containing live code, with support for many languages (including Python, R and Julia) *via* kernels.
 
@@ -159,7 +161,7 @@ pip install jupyter
 
 * Project Jupyter homepage: [http://jupyter.org/](http://jupyter.org/)
 
-### Install `Seaborn`
+#### Install `Seaborn`
 
 `Seaborn` is an open-source Python library built upon `matplotlib` that allows straightforward production of more complex graphics than the base `matplotlib` package. To install, use the following command in your virtual environment:
 
@@ -169,7 +171,7 @@ pip install seaborn
 
 * `Seaborn` homepage: [http://web.stanford.edu/~mwaskom/software/seaborn/index.html](http://web.stanford.edu/~mwaskom/software/seaborn/index.html)
 
-### Install `ggplot`
+#### Install `ggplot`
 
 `ggplot` is an open-source plotting library based on Hadley Wickham's Grammar of Graphics and the R `ggplot2` library. To install, run the following in your terminal under the virtual environment.
 
@@ -179,9 +181,9 @@ pip install ggplot
 
 * `ggplot` homepage: [http://ggplot.yhathq.com/](http://ggplot.yhathq.com/)
 
-### Install `bokeh`
+#### Install `bokeh`
 
-`bokeh` is an open-source library for building interactive web visualisations of data using only Python.
+`bokeh` is an open-source library ased on Hadley Wickham's Grammar of Graphics for building interactive web visualisations of data using only Python.
 
 ```
 pip install bokeh
