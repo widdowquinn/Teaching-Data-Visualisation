@@ -1,0 +1,5 @@
+# Exclude rdvw virtual environment files
+rdvw
+
+# Exclude intermediate/temp files
+*~
