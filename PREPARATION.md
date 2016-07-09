@@ -178,3 +178,13 @@ pip install ggplot
 ```
 
 * `ggplot` homepage: [http://ggplot.yhathq.com/](http://ggplot.yhathq.com/)
+
+### Install `bokeh`
+
+`bokeh` is an open-source library for building interactive web visualisations of data using only Python.
+
+```
+pip install bokeh
+```
+
+* `bokeh` homepage: [http://bokeh.pydata.org/en/latest/](http://bokeh.pydata.org/en/latest/)
