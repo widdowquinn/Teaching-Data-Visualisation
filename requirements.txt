@@ -7,4 +7,4 @@ seaborn>=0.7.1
 ggplot>=0.10.0
 bokeh>=0.12.0
 pyshp>=1.2.3
-netCDF4>=1.2.4
+#netCDF4>=1.2.4
