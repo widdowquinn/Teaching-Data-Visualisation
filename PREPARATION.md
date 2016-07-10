@@ -183,10 +183,20 @@ pip install ggplot
 
 #### Install `bokeh`
 
-`bokeh` is an open-source library ased on Hadley Wickham's Grammar of Graphics for building interactive web visualisations of data using only Python.
+`bokeh` is an open-source library based on Hadley Wickham's Grammar of Graphics for building interactive web visualisations of data using only Python. It can be installed using `pip` as follows:
 
 ```
 pip install bokeh
 ```
 
 * `bokeh` homepage: [http://bokeh.pydata.org/en/latest/](http://bokeh.pydata.org/en/latest/)
+
+#### Install `netCDF4`
+
+`netCDF4` is the standard open-source library for working with NetCDF4 format data. To install it, use `pip`:
+
+```
+pip install netCDF4
+```
+
+* `netCDF4` homepage: [https://pypi.python.org/pypi/netCDF4](https://pypi.python.org/pypi/netCDF4)
