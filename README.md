@@ -24,7 +24,7 @@ These workshop materials are designed to be compatible with [MyBinder](mybinder.
 * Use *layers* to produce new visualisations specifically to suit your data, showing data and statistical summaries
 * Use multi-panel figures to display complex datasets
 
-[![grammar of graphics example](exercises/grammar_of_graphics/images/gog.png)]((exercises/grammar_of_graphics/grammar_of_graphics.ipynb)
+![grammar of graphics example](exercises/grammar_of_graphics/images/gog.png)
 
 ### Imaging 2D arrays, colormaps, and 3D surface plots
 
@@ -38,7 +38,7 @@ These workshop materials are designed to be compatible with [MyBinder](mybinder.
 * Visualise 2D array data as a 3D surface plot
 * Explore the application and influence of colour palettes and lighting effects on the interpretation of 3D surface plots
 
-[![3D surface plot](exercises/colormaps_surfaces_netcdf/images/intro_image.png)]((exercises/colormaps_surfaces_netcdf/colormaps_surfaces_netcdf.ipynb)
+![3D surface plot](exercises/colormaps_surfaces_netcdf/images/intro_image.png)
 
 ### Interactive map with `bokeh`
 
@@ -51,4 +51,4 @@ These workshop materials are designed to be compatible with [MyBinder](mybinder.
 * Render GIS boundary data in an interactive `bokeh` plot
 * Colour geospatial data by results in an interactive `bokeh` plot
 
-[![interactive map screenshot](exercises/interactive_bokeh_map/images/eu_ref_manchester.png)](exercises/interactive_bokeh_map/interactive_bokeh_map.ipynb)
+![interactive map screenshot](exercises/interactive_bokeh_map/images/eu_ref_manchester.png)
