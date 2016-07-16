@@ -20,7 +20,7 @@ These workshop materials are designed to be compatible with [MyBinder](mybinder.
 #### Learning Outcomes
 
 * Understand the Grammar of Graphics
-* Use the Grammar of Graphics with the `ggplot` module to produce a scatterplot from *aesthetics* and *geometric representations*.
+* Use the Grammar of Graphics with the `ggplot` module to produce plots from *aesthetics* and *geometric representations*.
 * Use *layers* to produce new visualisations specifically to suit your data, showing data and statistical summaries
 * Use multi-panel figures to display complex datasets
 
