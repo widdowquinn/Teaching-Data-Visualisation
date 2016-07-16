@@ -11,6 +11,18 @@ These workshop materials are designed to be compatible with [MyBinder](mybinder.
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/widdowquinn/Teaching-Data-Visualisation)
 
+## Acknowledgements
+
+These exercises borrow heavily and adapt or use material from several excellent sources, including:
+
+* Data Carpentry: [http://www.datacarpentry.org/](http://www.datacarpentry.org/)
+* Software Carpentry: [http://software-carpentry.org/](http://software-carpentry.org/) - especially the R novice Gapfinder material
+* `ggplot2: Elegant Graphics for Data Analysis`: [http://www.springer.com/us/book/9780387981413](http://www.springer.com/us/book/9780387981413)
+* `bokeh` documentation: [http://bokeh.pydata.org/en/latest/docs/gallery.html#gallery](http://bokeh.pydata.org/en/latest/docs/gallery.html#gallery)
+
+
+If you recognise some of this content and are not acknowledged here, please let me know and I will correct that! I don't think I'm in breach of any copyright or licensing, but if you notice any such breaches please let me know and I will rectify as soon as is possible.
+
 ## Exercises
 
 ### Grammar of Graphics
