@@ -1,0 +1,13 @@
+name: rdvw_conda
+channels:
+  - conda-forge
+dependencies:
+  - numpy>=1.11.1
+  - scipy>=0.17.1
+  - pandas>=0.18.1
+  - matplotlib>=1.5.1
+  - jupyter>=1.0.0
+  - seaborn=0.7.*
+  - ggplot=0.10.*
+  - bokeh>=0.12.0
+  - pyshp>=1.2.3
