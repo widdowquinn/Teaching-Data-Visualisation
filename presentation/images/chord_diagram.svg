@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="350px" height="539.896px" viewBox="0 0 350 539.896" enable-background="new 0 0 350 539.896" xml:space="preserve">
+<g id="Layer_4">
+</g>
+<g id="Layer_3">
+	<g>
+		<path opacity="0.9" fill="#FF0000" enable-background="new    " d="M58.831,276.921c0,0,114.204-82.704,233.419,1.725
+			c0.75,2.674-54.516,52.619-54.516,52.619l-57.478,16.127c0,0-3.743-168.375-12.532-4.414c0.375,1.338-71.063-21.156-71.063-21.156
+			L58.831,276.921z"/>
+		<path opacity="0.9" fill="#00FF00" enable-background="new    " d="M64.48,141.599l225.098,135.468l19.888-61.456l-18.753-66.834
+			c0,0-105.599,79.735-117.657-71.167c-0.481,0.856-66.729,16.559-66.729,16.559L64.48,141.599z"/>
+		<path opacity="0.7" fill="#0000FF" enable-background="new    " d="M58.25,151.646c0,0,123.148,76.468,114.806-74.035
+			L239.5,89.896l44.25,48.75c0,0-217.8,137.603-226,137.5c-8.199-0.102-20.451-63.114-20.451-63.114L58.25,151.646z"/>
+		<g>
+			<path fill="#534741" d="M66.063,142.488c36.038-57.836,111.821-77.696,171.826-43.987c18.522,10.407,33.465,24.757,44.375,41.412
+				l10.135-6.017c-11.938-18.375-28.35-34.209-48.74-45.664c-65.67-36.893-148.644-15.015-187.872,48.482L66.063,142.488z"/>
+			<path fill="#534741" d="M298.398,144.033l-10.133,6.016c19.843,37.356,20.886,83.747-1.326,123.284
+				c-22.637,40.292-63.914,63.652-107.019,65.377l-0.09,11.794c47.256-1.709,92.571-27.243,117.379-71.399
+				C321.556,235.769,320.306,184.898,298.398,144.033z"/>
+			<path fill="#534741" d="M168.141,338.638c-19.1-0.99-38.258-6.268-56.032-16.252c-60.003-33.71-82.465-108.764-51.815-169.627
+				l-10.277-5.774c-33.824,66.533-9.345,148.778,56.322,185.672c19.572,10.994,40.681,16.761,61.713,17.771L168.141,338.638z"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 167.6562 61.8965)" fill="#333333" font-family="'MyriadPro-Regular'" font-size="24">A</text>
+	<text transform="matrix(1 0 0 1 293.6562 316.8965)" fill="#333333" font-family="'MyriadPro-Regular'" font-size="24">B</text>
+	<text transform="matrix(1 0 0 1 35.6562 309.8965)" fill="#333333" font-family="'MyriadPro-Regular'" font-size="24">C</text>
+	<text transform="matrix(1 0 0 1 28.5 28.8965)" fill="#333333" font-family="'MyriadPro-Regular'" font-size="16">Node segment</text>
+	<g>
+		<text transform="matrix(1 0 0 1 218.5 28.8965)" fill="#333333" font-family="'MyriadPro-Regular'" font-size="16">Arc connection</text>
+	</g>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#F7931E" stroke-width="2" points="76.5,36.896 76.5,64.896 102.464,90.86 			"/>
+			<g>
+				<circle fill="#F7931E" cx="102.278" cy="90.674" r="5.264"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#F7931E" stroke-width="2" points="269,35.396 269,71.896 220.541,120.355 			"/>
+			<g>
+				<circle fill="#F7931E" cx="220.754" cy="120.142" r="6.016"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="68.219" y="415.636" fill="#E8E8E8" width="31.49" height="33.077"/>
+			<rect x="99.709" y="448.713" fill="#E8E8E8" width="31.491" height="32.109"/>
+			<rect x="131.2" y="480.823" fill="#E8E8E8" width="31.49" height="31.8"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 75.957 404.3418)" font-family="'Helvetica-Bold'" font-size="15.4744">A</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 106.1704 404.3418)" font-family="'Helvetica-Bold'" font-size="15.4744">B</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 137.6611 404.3418)" font-family="'Helvetica-Bold'" font-size="15.4744">C</text>
+		</g>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="31.332" y="417.184" width="35.34" height="31.529"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_2_)">
+					<text transform="matrix(1 0 0 1 37.522 438.3848)" font-family="'Helvetica-Bold'" font-size="15.4744">A</text>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_3_" x="100.289" y="417.184" width="30.331" height="30.949"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_4_)">
+					<text transform="matrix(1 0 0 1 108.0273 438.3848)" font-family="'Helvetica'" font-size="15.4744">10</text>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_5_" x="131.78" y="417.184" width="30.91" height="30.949"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_5_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_6_)">
+					<text transform="matrix(1 0 0 1 139.5176 438.3848)" font-family="'Helvetica'" font-size="15.4744">10</text>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_7_" x="31.332" y="448.713" width="35.34" height="32.109"/>
+				</defs>
+				<clipPath id="SVGID_8_">
+					<use xlink:href="#SVGID_7_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_8_)">
+					<text transform="matrix(1 0 0 1 37.522 469.9141)" font-family="'Helvetica-Bold'" font-size="15.4744">B</text>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_9_" x="69.767" y="449.293" width="29.362" height="30.949"/>
+				</defs>
+				<clipPath id="SVGID_10_">
+					<use xlink:href="#SVGID_9_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_10_)">
+					<text transform="matrix(1 0 0 1 77.5044 470.4941)" font-family="'Helvetica'" font-size="15.4744">10</text>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_11_" x="131.78" y="449.293" width="30.91" height="30.949"/>
+				</defs>
+				<clipPath id="SVGID_12_">
+					<use xlink:href="#SVGID_11_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_12_)">
+					<text transform="matrix(1 0 0 1 139.5176 470.4941)" font-family="'Helvetica'" font-size="15.4744">10</text>
+				</g>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 37.522 502.0225)" font-family="'Helvetica-Bold'" font-size="15.4744">C</text>
+		</g>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_13_" x="69.767" y="481.403" width="29.362" height="30.948"/>
+				</defs>
+				<clipPath id="SVGID_14_">
+					<use xlink:href="#SVGID_13_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_14_)">
+					<text transform="matrix(1 0 0 1 77.5044 502.6025)" font-family="'Helvetica'" font-size="15.4744">10</text>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_15_" x="100.289" y="481.403" width="30.331" height="30.948"/>
+				</defs>
+				<clipPath id="SVGID_16_">
+					<use xlink:href="#SVGID_15_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_16_)">
+					<text transform="matrix(1 0 0 1 108.0273 502.6025)" font-family="'Helvetica'" font-size="15.4744">10</text>
+				</g>
+			</g>
+		</g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="68.219" y1="382.097" x2="68.219" y2="415.636"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="68.219" y1="415.636" x2="68.219" y2="448.713"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="68.219" y1="448.713" x2="68.219" y2="480.823"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="68.219" y1="480.823" x2="68.219" y2="513.396"/>
+			<line fill="none" stroke="#404040" stroke-width="0.75" x1="99.709" y1="381.896" x2="99.709" y2="448.713"/>
+			<line fill="none" stroke="#404040" stroke-width="0.75" x1="99.709" y1="448.713" x2="99.709" y2="480.823"/>
+			<line fill="none" stroke="#404040" stroke-width="0.75" x1="99.709" y1="480.823" x2="99.709" y2="513.396"/>
+			<line fill="none" stroke="#404040" stroke-width="0.75" x1="131.2" y1="381.896" x2="131.2" y2="448.713"/>
+			<line fill="none" stroke="#404040" stroke-width="0.75" x1="131.2" y1="448.713" x2="131.2" y2="480.823"/>
+			<line fill="none" stroke="#404040" stroke-width="0.75" x1="131.2" y1="480.823" x2="131.2" y2="513.396"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="30.287" y1="415.636" x2="68.219" y2="415.636"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="68.219" y1="415.636" x2="99.709" y2="415.636"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="99.709" y1="415.636" x2="163.464" y2="415.636"/>
+			<line fill="none" stroke="#404040" stroke-width="0.75" x1="31.166" y1="448.713" x2="99.709" y2="448.713"/>
+			<line fill="none" stroke="#404040" stroke-width="0.75" x1="99.709" y1="448.713" x2="131.2" y2="448.713"/>
+			<line fill="none" stroke="#404040" stroke-width="0.75" x1="131.2" y1="448.713" x2="162.69" y2="448.713"/>
+			<line fill="none" stroke="#404040" stroke-width="0.75" x1="31.166" y1="480.823" x2="99.709" y2="480.823"/>
+			<line fill="none" stroke="#404040" stroke-width="0.75" x1="99.709" y1="480.823" x2="131.2" y2="480.823"/>
+			<line fill="none" stroke="#404040" stroke-width="0.75" x1="131.2" y1="480.823" x2="162.69" y2="480.823"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 210.582 417.1846)" fill="#333333" font-family="'MyriadPro-Regular'" font-size="24">A</text>
+	<text transform="matrix(1 0 0 1 300.0879 512.3525)" fill="#333333" font-family="'MyriadPro-Regular'" font-size="24">A</text>
+	<text transform="matrix(1 0 0 1 211.4219 464.7305)" fill="#333333" font-family="'MyriadPro-Regular'" font-size="24">B</text>
+	<text transform="matrix(1 0 0 1 300.0879 417.1846)" fill="#333333" font-family="'MyriadPro-Regular'" font-size="24">B</text>
+	<text transform="matrix(1 0 0 1 210.9658 512.3525)" fill="#333333" font-family="'MyriadPro-Regular'" font-size="24">C</text>
+	<text transform="matrix(1 0 0 1 300.0879 464.7305)" fill="#333333" font-family="'MyriadPro-Regular'" font-size="24">C</text>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" x1="232.168" y1="409.564" x2="287.658" y2="409.564"/>
+			<g>
+				<polygon points="286.199,414.55 294.835,409.564 286.199,404.578 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" x1="232.168" y1="456.564" x2="287.658" y2="456.564"/>
+			<g>
+				<polygon points="286.199,461.55 294.835,456.564 286.199,451.578 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" x1="232.168" y1="504.064" x2="287.658" y2="504.064"/>
+			<g>
+				<polygon points="286.199,509.05 294.835,504.064 286.199,499.078 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 250 402.3965)" font-family="'MyriadPro-Regular'" font-size="16">10</text>
+	<text transform="matrix(1 0 0 1 250 449.8965)" font-family="'MyriadPro-Regular'" font-size="16">10</text>
+	<text transform="matrix(1 0 0 1 250 498.3965)" font-family="'MyriadPro-Regular'" font-size="16">10</text>
+</g>
+</svg>

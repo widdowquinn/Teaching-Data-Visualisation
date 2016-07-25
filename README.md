@@ -19,6 +19,8 @@ These exercises borrow heavily and adapt or use material from several excellent 
 * Software Carpentry: [http://software-carpentry.org/](http://software-carpentry.org/) - especially the R novice Gapfinder material
 * `ggplot2: Elegant Graphics for Data Analysis`: [http://www.springer.com/us/book/9780387981413](http://www.springer.com/us/book/9780387981413)
 * `bokeh` documentation: [http://bokeh.pydata.org/en/latest/docs/gallery.html#gallery](http://bokeh.pydata.org/en/latest/docs/gallery.html#gallery)
+* "39 studies about human data perception in 30 minues", Kennedy Elliott: [link](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73#.wgrldy54e)
+* The Data Visualisation Catalogue: [http://www.datavizcatalogue.com](http://www.datavizcatalogue.com/index.html)
 
 
 If you recognise some of this content and are not acknowledged here, please let me know and I will correct that! I don't think I'm in breach of any copyright or licensing, but if you notice any such breaches please let me know and I will rectify as soon as is possible.

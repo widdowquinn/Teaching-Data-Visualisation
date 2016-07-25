@@ -1,0 +1,28 @@
+% Show table of contents, with current section highlighted,
+% at the start of each section
+
+%\AtBeginSection[]
+%{
+%  \begin{frame}
+%    \frametitle{Table of Contents}
+%    \tableofcontents[currentsection] %,hideallsubsections]
+%  \end{frame}
+%}
+
+% TOC AT SECTIONS
+%\AtBeginSection[]
+%{
+%  \begin{frame}
+%    \frametitle{Table of Contents}
+%    \tableofcontents[currentsection,currentsubsection] %,hideallsubsections]
+%  \end{frame}
+%}
+
+% TOC AT SUBSECTIONS
+\AtBeginSubsection[]
+{
+  \begin{frame}
+    \frametitle{Table of Contents}
+    \tableofcontents[currentsection,currentsubsection] %,hideallsubsections]
+  \end{frame}
+}

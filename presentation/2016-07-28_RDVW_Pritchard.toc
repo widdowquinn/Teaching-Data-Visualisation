@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Elementary perceptual tasks}{3}{0}{1}
+\beamer@sectionintoc {2}{Evidence-based representation}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{What representations work best?}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{To piechart or not to piechart?}{9}{0}{2}
+\beamer@sectionintoc {4}{Acknowledgements}{10}{0}{3}
