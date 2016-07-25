@@ -51,9 +51,9 @@
 \begin{frame}
   \frametitle{Bars \textit{ vs.} lines}
     \begin{itemize}  
-      \item People naturally interpret bar charts as categorical data
-      \item People naturally interpret line graphs as trends
-      \item Using bars for trend data or lines for categorical data can mislead the viewer
+      \item \textcolor{hutton_green}{People naturally interpret bar charts as categorical data}
+      \item \textcolor{hutton_blue}{People naturally interpret line graphs as trends}
+      \item \textcolor{hutton_purple}{Using bars for trend data or lines for categorical data can mislead the reader}
     \end{itemize}  
 \end{frame}
 
@@ -65,10 +65,9 @@
   \begin{columns}[T]
     \begin{column}{6cm}  
       \begin{itemize}  
-        \item \textcolor{hutton_green}{Do these bars differ in value?}
-        \item Bar charts represent data as a single point: lossy compression.
-        \item \textcolor{hutton_blue}{Are variances of black/white datasets the same?}
-        \item \textcolor{hutton_purple}{Could different datasets give the same bar chart?}
+        \item <1->\textcolor{hutton_green}{Do these bars differ in value?}
+        \item <2->\textcolor{hutton_blue}{Bar charts represent data as a single point: lossy compression.}
+        \item <2->\textcolor{hutton_purple}{Could different datasets give the same bar chart?}
       \end{itemize}  
     \end{column}
     \begin{column}{4cm}  
@@ -132,6 +131,6 @@
 % BAR V SCATTER 3
 \begin{frame}
   \frametitle{Better than bar charts?}
-  \textcolor{hutton_purple}{Scatterplot shows effect of small sample sizes, outliers, variance}
+  \textcolor{hutton_purple}{Univariate scatterplots show sample sizes, outliers, variance}
     \includegraphics[width=1\textwidth]{images/weissgerber_bar_scatter3}    
 \end{frame}
