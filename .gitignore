@@ -6,3 +6,12 @@ rdvw
 
 # Exclude Jupyter checkpoints
 .ipynb_checkpoints
+
+# Exclude LaTeX intermediates
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.synctex.gz
