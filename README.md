@@ -27,6 +27,17 @@ If you recognise some of this content and are not acknowledged here, please let 
 
 ## Exercises
 
+### One-variable, continuous data
+
+* [one_variable_continuous.ipynb](exercises/one_variable_continuous/one_variable_continuous.ipynb)
+
+#### Learning Outcomes
+
+* Representing one-dimensional continuous-valued data using `matplotlib` and `seaborn` libraries
+* Generating random example data
+* Use of `figure()` and subplots
+![1D continuous data example](exercises/one_variable_continuous/images/intro_image.png)
+
 ### Grammar of Graphics
 
 * [grammar_of_graphics.ipynb](exercises/grammar_of_graphics/grammar_of_graphics.ipynb)
