@@ -24,7 +24,7 @@ These workshop materials are designed to be compatible with [MyBinder](mybinder.
 We assume that you already have the most recent (or recently-updated) version of Anaconda available. This will enable you to create a new environment to run these exercises, using the following command from within the `Teaching-Data-Visualisation` directory:
 
 ```
-conda env create -f environment.yml -n rdvw_conda
+conda env create -f conda_rdvw_environment.yml -n rdvw_conda
 ```
 
 This will take some time to install the Anaconda libraries, and those additional libraries required for the exercises. Once it is complete, you can then use this environment with
