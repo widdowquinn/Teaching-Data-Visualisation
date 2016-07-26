@@ -11,15 +11,56 @@ git clone git@github.com:widdowquinn/Teaching-Data-Visualisation.git
 cd Teaching-Data-Visualisation
 ```
 
-## If you're not using `Anaconda`:
+## Run the repository exercises
 
-### Python 3.5
+### 1. In your browser with `MyBinder`
+
+These workshop materials are designed to be compatible with [MyBinder](mybinder.org). To start an instance of this repository, click on the badge below:
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/widdowquinn/Teaching-Data-Visualisation)
+
+### 2. `Anaconda`
+
+We assume that you already have the most recent (or recently-updated) version of Anaconda available. This will enable you to create a new environment to run these exercises, using the following command from within the `Teaching-Data-Visualisation` directory:
+
+```
+conda env create -f environment.yml -n rdvw_conda
+```
+
+This will take some time to install the Anaconda libraries, and those additional libraries required for the exercises. Once it is complete, you can then use this environment with
+
+```
+source activate rdvw_conda
+```
+
+Your shell prompt will then alert you that you are working within the `rdvw-conda` environment:
+
+```
+$ source activate rdvw_conda
+(rdvw_conda) $
+```
+
+To exit the environment, use:
+
+```
+source deactivate
+```
+
+and again your prompt will alert you that you have left the environment:
+
+```
+(rdvw_conda) $ source deactivate
+$
+```
+
+
+### 3. Python `virtualenv`
 
 We assume that you will be running a recent version of Python 3 - preferably Python 3.5. The instructions for installing this on your platform can be found at the official Python downloads page:
 
 * Python downloads page: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-### `virtualenv`
+#### `virtualenv`
 
 `virtualenv` is a tool that creates isolated Python environments. Using this means that we can install packages specific to this workshop, and not interfere with your existing Python setup. It is like having a new, "clean" Python installation.
 
@@ -101,7 +142,7 @@ As before, your shell prompt should change to alert you that you are no longer w
 lpritc@Totoro:2016-07-28_manchester_datavis$ 
 ```
 
-### Activate the virtual environment
+#### Activate the virtual environment
 
 We will install data visualisation and manipulation packages within the virtual environment. Confirm that you are in the root directory of the repository, and activate the virtual environment `rdvw`:
 
@@ -109,94 +150,10 @@ We will install data visualisation and manipulation packages within the virtual 
 source rdvw/bin/activate
 ```
 
-### Quick installation
+#### Quick installation
 
 The Python library requirements are given in the `requirements.txt` file in the root directory of this repository. To quickly (without too much typing - it takes just as long otherwise) install all required libraries, use the following command at the terminal in your virtual environment:
 
 ```
 pip install -r requirements.txt
 ```
-
-### Less quick installation 
-
-The instructions below describe how to install each of the Python libraries individually:
-
-#### Install `scipy`
-
-`SciPy` is a collection of open-source software for maths, science and engineering. To install `scipy`, run the following command from within the virtual environment:
-
-```
-pip install scipy
-```
-
-* `scipy` homepage: [https://www.scipy.org/](https://www.scipy.org/)
-
-#### Install `matplotlib`
-
-`Matplotlib` is an open-source 2D plotting library that is effectively a "base" library underpinning many Python data visualisatio libraries. To install, run the following command within your virtual environment:
-
-```
-pip install matplotlib
-```
-
-* `matplotlib` homepage: [http://matplotlib.org/](http://matplotlib.org/)
-
-#### Install `pandas`
-
-`pandas` is an open-source library that provides data structure and analysis tools, including R-like dataframes. To install, run the following command from within the virtual environment:
-
-```
-pip install pandas
-```
-
-* `pandas` homepage: [http://pandas.pydata.org/](http://pandas.pydata.org/)
-
-#### Install `Jupyter`
-
-`Jupyter` is an open-source notebook environment that allows creation and sharing of documents containing live code, with support for many languages (including Python, R and Julia) *via* kernels.
-
-```
-pip install jupyter
-```
-
-* Project Jupyter homepage: [http://jupyter.org/](http://jupyter.org/)
-
-#### Install `Seaborn`
-
-`Seaborn` is an open-source Python library built upon `matplotlib` that allows straightforward production of more complex graphics than the base `matplotlib` package. To install, use the following command in your virtual environment:
-
-```
-pip install seaborn
-```
-
-* `Seaborn` homepage: [http://web.stanford.edu/~mwaskom/software/seaborn/index.html](http://web.stanford.edu/~mwaskom/software/seaborn/index.html)
-
-#### Install `ggplot`
-
-`ggplot` is an open-source plotting library based on Hadley Wickham's Grammar of Graphics and the R `ggplot2` library. To install, run the following in your terminal under the virtual environment.
-
-```
-pip install ggplot
-```
-
-* `ggplot` homepage: [http://ggplot.yhathq.com/](http://ggplot.yhathq.com/)
-
-#### Install `bokeh`
-
-`bokeh` is an open-source library based on Hadley Wickham's Grammar of Graphics for building interactive web visualisations of data using only Python. It can be installed using `pip` as follows:
-
-```
-pip install bokeh
-```
-
-* `bokeh` homepage: [http://bokeh.pydata.org/en/latest/](http://bokeh.pydata.org/en/latest/)
-
-#### Install `netCDF4`
-
-`netCDF4` is the standard open-source library for working with NetCDF4 format data. To install it, use `pip`:
-
-```
-pip install netCDF4
-```
-
-* `netCDF4` homepage: [https://pypi.python.org/pypi/netCDF4](https://pypi.python.org/pypi/netCDF4)

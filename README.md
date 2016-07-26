@@ -5,7 +5,7 @@ This repository contains files for the Python hands-on session of the [Software 
 * Course website: [http://software.ac.uk/rdvw](http://software.ac.uk/rdvw)
 * Course registration: [Eventbrite](http://www.eventbrite.com/e/research-data-visualisation-workshop-rdvw-tickets-25927808774?aff=SSILandingPage)
 
-## Run this workshop in your browser
+## Running this workshop in your browser
 
 These workshop materials are designed to be compatible with [MyBinder](mybinder.org). To start an instance of this repository, click on the badge below:
 
