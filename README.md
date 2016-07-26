@@ -77,3 +77,15 @@ If you recognise some of this content and are not acknowledged here, please let 
 * Colour geospatial data by results in an interactive `bokeh` plot
 
 ![interactive map screenshot](exercises/interactive_bokeh_map/images/eu_ref_manchester.png)
+
+### Making movies with `matplotlib` and `seaborn`
+
+* [making_movies.ipynb](exercises/making_movies/making_movies.ipynb)
+
+### Learning Outcomes
+
+* Understand `matplotlib`'s `animation` functionality
+* Generate animations using `FuncAnimation`
+* Generate line graph and bubble plot animations
+
+![bubble chart screenshot](exercises/making_movies/images/intro_image.png)
