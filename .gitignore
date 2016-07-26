@@ -15,3 +15,7 @@ rdvw
 *.snm
 *.toc
 *.synctex.gz
+
+# Exclude movie output
+exercises/making_movies/*.mp4
+exercises/making_movies/*.m4v
