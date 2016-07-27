@@ -49,7 +49,7 @@ If you recognise some of this content and are not acknowledged here, please let 
 * Representing two-dimensional continuous *x* and *y* data using `matplotlib` and `seaborn` libraries
 * Use of `figure()` and subplots
 * Annotating plots with text
-* Working with long and wide form DataFrame
+* Working with long and wide form `DataFrame`s in `pandas`
 * Using statistical overlays and `seaborn`'s statistical plots
 
 ![continuous x, y data example](exercises/two_variables/images/intro_image_continuous_xy.png)
