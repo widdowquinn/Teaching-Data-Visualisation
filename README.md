@@ -33,9 +33,11 @@ If you recognise some of this content and are not acknowledged here, please let 
 
 #### Learning Outcomes
 
-* Representing one-dimensional continuous-valued data using `matplotlib` and `seaborn` libraries
-* Generating random example data
-* Use of `figure()` and subplots
+* Generating randomly-distributed example data
+* Representing one-dimensional continuous-valued data with histograms, KDE plots, and rug plots
+* Using `matplotlib` and `seaborn` libraries
+* Presenting arrays of images
+* Use of `figure()` and `subplots()`
 ![1D continuous data example](exercises/one_variable_continuous/images/intro_image.png)
 
 ### Two-variable, continuous *x*, *y* data
