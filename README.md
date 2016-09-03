@@ -4,6 +4,10 @@ This repository contains files for the Python hands-on session of the [Software 
 
 * Course website: [http://software.ac.uk/rdvw](http://software.ac.uk/rdvw)
 * Course registration: [Eventbrite](http://www.eventbrite.com/e/research-data-visualisation-workshop-rdvw-tickets-25927808774?aff=SSILandingPage)
+* Workshop report: [SSI blog post](https://www.software.ac.uk/blog/2016-08-17-research-data-visualisation-workshop-report)
+* Videos of workshop keynotes: [YouTube](https://www.youtube.com/playlist?list=PLpX1jXuNTXGrjl6CxJ6Cly1GKO1su9yeD)
+* Speaker slides: [Google Drive](https://drive.google.com/drive/u/0/folders/0B7Jaz2j9AIcWbkRoYy1Ib0ZULWs)
+* Storify of tweets: [Storify](https://storify.com/SoftwareSaved/research-data-visualisation-workshop)
 
 ## Running this workshop in your browser
 
