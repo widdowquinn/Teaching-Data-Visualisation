@@ -89,7 +89,7 @@ If you recognise some of this content and are not acknowledged here, please let 
 
 * [interactive_bokeh_map.ipynb](exercises/interactive_bokeh_map/interactive_bokeh_map.html)
 
-### Learning Outcomes
+#### Learning Outcomes
 
 * Import and process shapefile GIS data using `pyshp`
 * Import public `.csv` (electoral) data using `pandas`
