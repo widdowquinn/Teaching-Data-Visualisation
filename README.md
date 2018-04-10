@@ -13,7 +13,7 @@ This repository contains files for the Python hands-on session of the [Software 
 
 These workshop materials are designed to be compatible with [MyBinder](mybinder.org). To start an instance of this repository, click on the badge below:
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/widdowquinn/Teaching-Data-Visualisation)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/widdowquinn/Teaching-Data-Visualisation/master?filepath=index.ipynb)
 
 ## Acknowledgements
 
