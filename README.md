@@ -33,7 +33,7 @@ If you recognise some of this content and are not acknowledged here, please let 
 
 ### One-variable, continuous data
 
-* [one_variable_continuous.ipynb](exercises/one_variable_continuous/one_variable_continuous.ipynb)
+* [one_variable_continuous.ipynb](exercises/one_variable_continuous/one_variable_continuous.html)
 
 #### Learning Outcomes
 
@@ -46,7 +46,7 @@ If you recognise some of this content and are not acknowledged here, please let 
 
 ### Two-variable, continuous *x*, *y* data
 
-* [continuous_x_continuous_y.ipynb](exercises/two_variables/continuous_x_continuous_y.ipynb)
+* [continuous_x_continuous_y.ipynb](exercises/two_variables/continuous_x_continuous_y.html)
 
 ### Learning Outcomes
 
@@ -60,7 +60,7 @@ If you recognise some of this content and are not acknowledged here, please let 
 
 ### Grammar of Graphics
 
-* [grammar_of_graphics.ipynb](exercises/grammar_of_graphics/grammar_of_graphics.ipynb)
+* [grammar_of_graphics.ipynb](exercises/grammar_of_graphics/grammar_of_graphics.html)
 
 #### Learning Outcomes
 
@@ -73,7 +73,7 @@ If you recognise some of this content and are not acknowledged here, please let 
 
 ### Imaging 2D arrays, colormaps, and 3D surface plots
 
-* [colormaps_surfaces_netcdf.ipynb](exercises/colormaps_surfaces_netcdf/colormaps_surfaces_netcdf.ipynb)
+* [colormaps_surfaces_netcdf.ipynb](exercises/colormaps_surfaces_netcdf/colormaps_surfaces_netcdf.html)
 
 #### Learning Outcomes
 
@@ -87,7 +87,7 @@ If you recognise some of this content and are not acknowledged here, please let 
 
 ### Interactive map with `bokeh`
 
-* [interactive_bokeh_map.ipynb](exercises/interactive_bokeh_map/interactive_bokeh_map.ipynb)
+* [interactive_bokeh_map.ipynb](exercises/interactive_bokeh_map/interactive_bokeh_map.html)
 
 ### Learning Outcomes
 
@@ -100,7 +100,7 @@ If you recognise some of this content and are not acknowledged here, please let 
 
 ### Making movies with `matplotlib` and `seaborn`
 
-* [making_movies.ipynb](exercises/making_movies/making_movies.ipynb)
+* [making_movies.ipynb](exercises/making_movies/making_movies.html)
 
 ### Learning Outcomes
 
